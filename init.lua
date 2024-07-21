@@ -260,6 +260,7 @@ require('lazy').setup({
       },
     },
   },
+  -- LazyGit plugin for git management
   {
     'kdheepak/lazygit.nvim',
     cmd = {
